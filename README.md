@@ -1,5 +1,4 @@
-My name is Michael, this repo contains my past and ongoing projects. I primarilry focus on data science and machine learning, 
-but I do enjoy the occasional science experiment.
+My name is Michael, this repo contains my past and ongoing projects. I primarilry focus on data science and machine learning.
 
 <!---
 malg97/malg97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
